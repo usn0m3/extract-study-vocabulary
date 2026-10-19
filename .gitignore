@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+node_modules/
+# Generated study material: workbooks, backups and processing artifacts
+*.xlsx
+*.xlsx.bak-*
+*.prepared.json
+entries.json
+*.inspect.ndjson

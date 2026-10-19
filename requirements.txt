@@ -1,0 +1,6 @@
+# Audio transcription (MP3/WAV/M4A)
+faster-whisper
+# DOCX input
+python-docx
+# PDF input
+pypdf

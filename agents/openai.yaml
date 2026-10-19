@@ -1,0 +1,4 @@
+interface:
+  display_name: "Extract Study Vocabulary"
+  short_description: "Extract useful English vocabulary and build a Chinese review word list"
+  default_prompt: "Use $extract-study-vocabulary to extract high-frequency vocabulary and key terms from this audio or text, translate them into Chinese, and update my cumulative Excel word list."
